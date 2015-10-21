@@ -1,0 +1,1 @@
+java -javaagent:target/ClassLogger-1.0.0-jar-with-dependencies.jar -classpath target\classes com.test.DemoApp
